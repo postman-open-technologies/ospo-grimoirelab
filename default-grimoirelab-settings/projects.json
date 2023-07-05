@@ -8,3 +8,23 @@
         ]
     }
   }
+{
+    "asyncapi": {
+      "meta": {
+        "title": "AsyncAPI"
+      },
+      "git": [
+          "https://github.com/asyncapi/asyncapi.git"
+        ]
+    }
+  }
+{
+    "microcks": {
+      "meta": {
+        "title": "Microcks"
+      },
+      "git": [
+          "https://github.com/microcks/microcks.git"
+        ]
+    }
+  }
